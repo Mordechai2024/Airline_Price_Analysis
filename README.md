@@ -21,7 +21,7 @@ Delays (delay)<br>
 Inflight services (inflight_meal, inflight_entertainment, inflight_wifi)<br>
 Flight specifics (day_of_week, weekend, redeye)<br>
 
-You can access the dataset from the data/ folder or provide a link if it's public.<br>
+You can access the dataset from the data/ folder.<br>
 
 # Exploratory Data Analysis
 Conducted an t test and ANOVA analysis to understand the impact of inflight services on coach and first-class prices.
